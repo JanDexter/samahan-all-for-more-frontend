@@ -1,0 +1,75 @@
+{
+  "SamahanCoreOfficers": [
+    {
+      "fullName": "Leen Juliet Lapatis",
+      "position": "SAMAHAN President",
+      "fileName": "[PRESIDENT] SCB Leen Juliet Lapatis.png",
+      "offices": "/offices/office-of-the-president"
+    },
+    {
+      "fullName": "Sung Goon Acosta",
+      "position": "SAMAHAN Vice President",
+      "fileName": "[VICE PRESIDENT] SCB Sung Goon Acosta.png",
+      "offices": "/offices/office-of-the-vice-president"
+    },
+    {
+      "fullName": "Aliya Medida",
+      "position": "SAMAHAN Secretary-General",
+      "fileName": "[SECRETARY-GENERAL] SCB Aliya Medida.png",
+      "offices": "/offices/office-of-the-secretary-general"
+    },
+    {
+      "fullName": "Mary Clair Clarde",
+      "position": "SAMAHAN Treasurer",
+      "fileName": "[TREASURER] SCB Mary Clair Clarde.png",
+      "offices": "/offices/office-of-the-treasurer"
+    }
+  ],
+  "ClusterRepresentatives": [
+    {
+      "fullName": "Adrian Neil D. Jamila",
+      "position": "ACC Representative",
+      "fileName": "[ACC] Adrian Neil D. Jamila.png"
+    },
+    {
+      "fullName": "Christian Kush F. Casona",
+      "position": "B&M Representative",
+      "fileName": "[B&M] Christian Kush F. Casona.png"
+    },
+    {
+      "fullName": "Dominic Miguel D. Almonte",
+      "position": "CS Representative",
+      "fileName": "[CS] Dominic Miguel D. Almonte.png"
+    },
+    {
+      "fullName": "Mia Angela G. Cabaobao",
+      "position": "HUMLET Representative",
+      "fileName": "[HUMLET] Mia Angela G. Cabaobao.png"
+    },
+    {
+      "fullName": "Mikaela Juliana E. Franco",
+      "position": "NSM Representative",
+      "fileName": "[NSM] Mikaela Juliana E. Franco.png"
+    },
+    {
+      "fullName": "Mark James B. Albaracin",
+      "position": "SOE Representative",
+      "fileName": "[SOE] Mark James B. Albaracin.png"
+    },
+    {
+      "fullName": "Norsheena M. Pacamaman",
+      "position": "SEA Representative",
+      "fileName": "[SEA] Norsheena M. Pacamaman.png"
+    },
+    {
+      "fullName": "Kristal Eden N. Magno",
+      "position": "SON Representative",
+      "fileName": "[SON] Kristal Eden N. Magno.png"
+    },
+    {
+      "fullName": "Archie R. Barroga",
+      "position": "SS Representative",
+      "fileName": "[SS] Archie R. Barroga.png"
+    }
+  ]
+}
